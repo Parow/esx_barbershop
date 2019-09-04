@@ -1,2 +1,4 @@
 # esx_barbershop
-NativeUI Barbershop
+Im releasing this script because an asshole sold it
+
+* Converted to NativeUI
